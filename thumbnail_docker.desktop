@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+Name=Thumbnail Gallery Docker
+Comment=Shows a thumbnail gallery from a folder
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=thumbnail_docker
+X-Krita-PluginVersion=1
+X-Krita-PluginName=thumbnail_docker
+X-Krita-PluginDisplayName=Thumbnail Gallery Docker
+X-Krita-PluginAuthor=Your Name
+X-Krita-PluginLicense=GPL
+X-Krita-PluginEnabled=true
